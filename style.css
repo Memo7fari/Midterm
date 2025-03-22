@@ -99,3 +99,23 @@ button:hover {
     text-align: center;
     text-decoration: wavy;
 }
+.add{
+    border: none;
+    background-color: #06e724;
+    color: rgb(7, 82, 220);
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 35%;
+    cursor: pointer;
+  }
+  .submit{
+    border: none;
+    background-color: #cc4413;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 100px;
+    cursor:pointer;
+
+  }
